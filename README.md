@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning new Data Engineering skills
+- 🌱  Recently graduated Data Engineer.
 - 👯 I’m looking to collaborate on and not limited to AWS,Python, DevOps,MS Azure, GCP and other Data Engineering skills
 
 
